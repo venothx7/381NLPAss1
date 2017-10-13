@@ -1,5 +1,6 @@
-START Karlsson is round STOP
-START He lives on the roof STOP
-START He is happy STOP
-START On the roof STOP
-START Karlsson lives happily STOP
+START Karlsson is round . STOP
+START He lives on the roof . STOP
+START He is happy . STOP
+START On the roof . STOP
+START Karlsson lives . happily STOP
+
